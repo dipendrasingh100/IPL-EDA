@@ -1,7 +1,7 @@
 # IPL EDA
 Indian Premier League(IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. 
 The league was founded by the Board of Control for Cricket in India(BCCI) in 2008. 
-I got the Dataset from https://www.kaggle.com/ramjidoolla/ipl-data-set. I also provided the datsets I have used in my analysis in this repo. By using this Dataset I want to analyze that which team won the most IPL matches, in which city most matches were played and the batsman who hitted the most sixes in IPL ...etc. 
+I provided the datsets I have used in my analysis in this repo. By using this Dataset I want to analyze that which team won the most IPL matches, in which city most matches were played and the batsman who hitted the most sixes in IPL ...etc. 
 Python libraries that I use in the notebook are
 
 - Numpy- to perform faster Numerical operations
